@@ -1,2 +1,2 @@
-# appstrikingct
+# Appstrikingct
 App BOX Striking CT
